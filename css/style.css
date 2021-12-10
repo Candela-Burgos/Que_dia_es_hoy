@@ -18,12 +18,14 @@ body{
 }
 
 .contenedor > h1{
+    text-align: center;
     margin-top: 2em;
     font-size: 3em;
     color: rgb(73, 13, 129);
 }
 
 .contenedor > p{
+    text-align: center;
     margin-top: 2em;
     font-size: 3em;
     color: #000000;
